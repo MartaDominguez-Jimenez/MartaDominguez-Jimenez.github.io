@@ -6,9 +6,7 @@ permalink: /policy-publications/
 
 **Book**
 
-**¿Quién hablará en europeo? El desafío de construir una unión política sin lengua común**  
-(English: **Who will speak European? The challenge of building a political union without a common tongue**)  
-*Clave Intelectual, Madrid* (with Arman Basurto). **2021**
+**¿Quién hablará en europeo? El desafío de construir una unión política sin lengua común** (English: **Who will speak European? The challenge of building a political union without a common tongue**), *Clave Intelectual, Madrid* (with Arman Basurto). **2021**
 
 ---
 
