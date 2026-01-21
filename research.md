@@ -20,7 +20,7 @@ permalink: /research/
 **``The demographic origins of premature deindustrialisation''.**\\
 Draft coming soon!
 
-This paper examines whether accelerated demographic transitions—by shrinking young‑adult cohort shares earlier—contribute to premature deindustrialisation and lower output per capita. Using country–year panels and cohort-size variation driven by fertility 25–34 years earlier, it shows that youth shares predict higher manufacturing employment and larger manufacturing “humps,” while earlier ageing shifts employment toward services at lower income levels. Harmonised IPUMS census microdata for 80+ countries document pronounced life‑cycle sectoral sorting and wage–age gradients consistent with age-dependent task returns; a calibrated multi‑sector OLG model with frictional sector choice and life‑cycle demand quantifies the equilibrium and welfare consequences of alternative demographic transitions.
+This paper examines whether accelerated demographic transitions—by shrinking young‑adult cohort shares earlier—contribute to premature deindustrialisation and lower output per capita. Using country–year panels and cohort-size variation driven by fertility 25–34 years earlier, I show that youth shares predict higher manufacturing employment and larger manufacturing “humps,” while earlier ageing shifts employment toward services at lower income levels. Using harmonised IPUMS census microdata for 80+ countries I document pronounced life‑cycle sectoral sorting and wage–age gradients consistent with age-dependent task returns; a calibrated multi‑sector OLG model with frictional sector choice and life‑cycle demand quantifies the equilibrium and output consequences of alternative demographic transitions.
 
 
 
