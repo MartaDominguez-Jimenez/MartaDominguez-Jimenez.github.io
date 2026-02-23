@@ -4,13 +4,13 @@ title: Pre-PhD Policy Publications
 permalink: /policy-publications/
 ---
 
-**Book**
+#### Book
 
 **¿Quién hablará en europeo? El desafío de construir una unión política sin lengua común** (English: **Who will speak European? The challenge of building a political union without a common tongue**), *Clave Intelectual, Madrid* (with Arman Basurto). **2021**. [Link](https://claveintelectual.com/product/quien-hablara-en-europeo/) 
 
 ---
 
-**Papers**
+#### Papers
 
 **“Reviving the case for policy coordination in EMU”**, in Adamski, Amtenbrink, & de Haan (Eds.), *The Cambridge Handbook of European Monetary, Economic and Financial Integration* (with M. Demertzis and N. Viegi). **2023**. [Link](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-european-monetary-economic-and-financial-integration/reviving-the-case-for-policy-coordination-in-emu/6977BAE378BE554F403666EB4153D331)
 
