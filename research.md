@@ -2,7 +2,7 @@
 
 layout: page
 
-title: Work in progress
+title: Research
 
 permalink: /research/
 
@@ -17,14 +17,19 @@ permalink: /research/
   }
 </style>
 
-"**The demographic origins of premature deindustrialisation**"\\
+#### Work in progress
+
+
+
+
+
+"**The Demographic Origins of Premature Deindustrialization**"\\
 <span style="color:#7A1E2C;">Draft coming soon!</span>
 
-This paper examines whether accelerated demographic transitions—by shrinking young‑adult cohort shares earlier—contribute to premature deindustrialisation and lower output per capita. Using country–year panels and cohort-size variation driven by fertility 25–34 years earlier, I show that youth shares predict higher manufacturing employment and larger manufacturing “humps,” while earlier ageing shifts employment toward services at lower income levels. Using harmonised IPUMS census microdata for 80+ countries I document pronounced life‑cycle sectoral sorting and wage–age gradients consistent with age-dependent task returns; a calibrated multi‑sector OLG model with frictional sector choice and life‑cycle demand quantifies the equilibrium and output consequences of alternative demographic transitions.
+This paper examines whether accelerated demographic transitions—by shrinking the young-adult (25–34) population share earlier—contribute to premature deindustrialization and lower output per capita. Using a country–year panel and instrumenting young-adult shares with fertility lagged 25–34 years, I show that larger young-adult cohorts predict higher manufacturing employment and a larger manufacturing-employment “hump,” while earlier aging shifts employment toward services at lower income levels. Harmonized IPUMS International census microdata from more than 80 countries indicate that manufacturing work and durable goods spending are concentrated among younger workers and households, while both low- and high-skill services rise with age and feature steeper wage–age profiles. A multi-sector overlapping-generations model with age-varying task productivity rationalizes these facts and implies sizable aggregate effects: shifting from an older to a younger age structure raises cumulative output per capita by 17.1 percentage points. Employment per capita explains 10.5 points of the gap; life-cycle reallocation and its interaction with durables explain the remaining 6.6 points.
 
 
-
-"**Financial frictions and Structural Transformation: A Quantitative Trade Approach**"\\
+"**Financial Frictions and Structural Transformation: A Quantitative Trade Approach**"\\
 *<span style="color:#1B5E20;">with Santiago Etchegaray</span>* \\
 <span style="color:#7A1E2C;">Draft available upon request</span> 
 
