@@ -22,3 +22,18 @@ body a {
   height: auto !important;
   max-width: 360px !important;
 }
+
+header a,
+nav a,
+.navbar a {
+  color: #0A2342 !important;   /* navy */
+}
+
+.nav-link,
+.navbar-brand {
+  color: #0A2342 !important;
+}
+.nav-link:hover,
+.navbar-brand:hover {
+  color: #123A66 !important;
+}
