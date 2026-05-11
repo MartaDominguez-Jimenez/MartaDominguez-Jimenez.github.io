@@ -17,25 +17,25 @@ permalink: /research/
   }
 </style>
 
+
+#### Working papers
+
+
+"**Finance, Trade, and the Missing Manufacturing Window**"\\
+*<span style="color:#1B5E20;">with Santiago Etchegaray</span>* \\
+<span style="color:#7A1E2C;">Draft available upon request</span> 
+
+
+Why do some economies develop through manufacturing while others move more directly into low-skilled services? This paper shows that financial underdevelopment is an important part of the answer. Weak financial systems reduce export competitiveness in finance-dependent sectors and raise the effective cost of investment, limiting demand for manufacturing-intensive capital goods. In a dynamic multi-country model, improving financial development raises manufacturing employment, output, and consumption in flat-manufacturing economies. Most of the manufacturing response comes from stronger investment demand, while export finance expands world-market participation. Lowering nonfinancial trade costs alone slightly reduces manufacturing employment, but openness reinforces manufacturing gains when accompanied by financial development. Finance shapes what globalization amplifies.
+
+
 #### Work in progress
-
-
-
 
 
 "**The Demographic Origins of Premature Deindustrialization**"\\
 <span style="color:#7A1E2C;">Draft coming soon!</span>
 
 This paper examines whether accelerated demographic transitions—by shrinking the young-adult (25–34) population share earlier—contribute to premature deindustrialization and lower output per capita. Using a country–year panel and instrumenting young-adult shares with fertility lagged 25–34 years, I show that larger young-adult cohorts predict higher manufacturing employment and a larger manufacturing-employment “hump,” while earlier aging shifts employment toward services at lower income levels. Harmonized IPUMS International census microdata from more than 80 countries indicate that manufacturing work and durable goods spending are concentrated among younger workers and households, while both low- and high-skill services rise with age and feature steeper wage–age profiles. A multi-sector overlapping-generations model with age-varying task productivity rationalizes these facts and implies sizable aggregate effects: shifting from an older to a younger age structure raises cumulative output per capita by 17.1 percentage points. Employment per capita explains 10.5 points of the gap; life-cycle reallocation and its interaction with durables explain the remaining 6.6 points.
-
-
-"**Financial Frictions and Structural Transformation: A Quantitative Trade Approach**"\\
-*<span style="color:#1B5E20;">with Santiago Etchegaray</span>* \\
-<span style="color:#7A1E2C;">Draft available upon request</span> 
-
-
-This paper shows that financial development predicts larger manufacturing and high-skilled service employment shares conditional on GDP per capita. Calibrating an open-economy heterogeneous-firm model to 1990–2010 data, I show that borrowing constraints tax finance-intensive manufacturing and high-skilled services, flattening manufacturing humps. Removing financial asymmetries halves the manufacturing-employment gap between flat- and steep-hump economies and raises the flat-hump group’s share of global output by 3.3 percentage points.
-
 
 "**A Trade Based Optimal Voting Rule for the International Monetary Fund**"\
 *<span style="color:#1B5E20;">with Martín Gonzalez-Eiras</span>* \\
