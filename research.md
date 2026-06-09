@@ -17,6 +17,13 @@ permalink: /research/
   }
 </style>
 
+#### Job-market paper
+
+"**The Demographic Origins of Premature Deindustrialization**"\\
+<span style="color:#7A1E2C;">Draft coming soon!</span>
+
+This paper examines whether accelerated demographic transitions—by shrinking the young-adult (25–34) population share earlier—contribute to premature deindustrialization by changing economies’ sectoral comparative advantage. In a country-year panel, instrumenting the 25-34 population share with birth rates lagged 25-34 years, I show that larger young-adult cohorts predict higher manufacturing employment and larger manufacturing humps. IPUMS International microdata from more than 80 countries and household consumption data show that manufacturing work and durable-goods spending are concentrated among younger workers and households, whereas service employment rises with age and has steeper wage-age profiles. I quantify these mechanisms in a multi-sector open-economy OLG model with age-varying task productivity, mobility frictions, durable demand, and trade. Replacing Thai with historical U.S. demographics around the agricultural transition raises mean manufacturing employment by 3.4 percentage points, peak manufacturing employment by 3.8 points, and cumulative real output per capita growth by 53 points; 20 points come from life-cycle labor allocation and durable demand.
+
 
 #### Working papers
 
@@ -35,11 +42,6 @@ Why do some economies experience a pronounced manufacturing phase during structu
 Tariffs are sectoral taxes, but their macroeconomic effects depend on whether tariffed goods are consumed, used as intermediate inputs, or used to build capital. To measure this distinction, we construct a multi-country investment input-output matrix that traces each sector’s capital-goods purchases to the origin sectors and countries that supply them. We embed this matrix in a multi-country, multi-sector New Keynesian model with traded investment goods and capital accumulation. Capital doubles the short-run output contraction from US tariffs and makes investment the central propagation margin. Sectoral tariff incidence is organized by investment-goods exposure for real activity and by final-demand exposure for prices. Applied to realized US-China tariffs in 2025–26, the model shows that sectoral composition materially changes aggregate outcomes relative to uniform-equivalent tariffs and reallocates losses across sectors.
 
 #### Work in progress
-
-"**The Demographic Origins of Premature Deindustrialization**"\\
-<span style="color:#7A1E2C;">Draft coming soon!</span>
-
-This paper examines whether accelerated demographic transitions—by shrinking the young-adult (25–34) population share earlier—contribute to premature deindustrialization by changing economies’ sectoral comparative advantage. In a country-year panel, instrumenting the 25-34 population share with birth rates lagged 25-34 years, I show that larger young-adult cohorts predict higher manufacturing employment and larger manufacturing humps. IPUMS International microdata from more than 80 countries and household consumption data show that manufacturing work and durable-goods spending are concentrated among younger workers and households, whereas service employment rises with age and has steeper wage-age profiles. I quantify these mechanisms in a multi-sector open-economy OLG model with age-varying task productivity, mobility frictions, durable demand, and trade. Replacing Thai with historical U.S. demographics around the agricultural transition raises mean manufacturing employment by 3.4 percentage points, peak manufacturing employment by 3.8 points, and cumulative real output per capita growth by 53 points; 20 points come from life-cycle labor allocation and durable demand.
 
 "**IMF Governance in a Fragmenting World**"\
 *<span style="color:#1B5E20;">with Martín Gonzalez-Eiras</span>* \\
