@@ -33,7 +33,8 @@ This paper examines whether accelerated demographic transitions—by shrinking t
 
 "**Trade, Financial Frictions, and the Missing Manufacturing Window**"\\
 *<span style="color:#1B5E20;">with Santiago Etchegaray</span>* \\
-<a style="color:#7A1E2C;" href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609">Draft</a> 
+<a style="color:#7A1E2C;" href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609">Draft</a><br>
+*<span style="color:#6C757D;">Submitted</span>*
 
 
 Why do some economies experience a pronounced manufacturing phase during structural transformation, while others move more directly into low-skilled services? This paper shows that financial underdevelopment, by shaping export competitiveness and domestic investment demand, is a quantitatively important driver of flat-manufacturing paths. Motivating evidence links financial depth to manufacturing activity and export performance. We then quantify the mechanism in a dynamic multi-country model of structural transformation and trade, where financial underdevelopment both weakens competitiveness in finance-dependent sectors and lowers demand for manufacturing-intensive investment goods. Moving flat-manufacturing economies halfway to the financial frontier closes over a quarter of the observed flat--steep peak gap; it raises real output per worker by 13 to 17 percent and real consumption per worker by 8 to 12 percent. Paired with lower nonfinancial trade costs, the same financial improvement closes almost three quarters of the peak gap, as finance shapes the manufacturing response that openness amplifies.
