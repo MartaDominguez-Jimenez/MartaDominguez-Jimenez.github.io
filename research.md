@@ -16,12 +16,26 @@ permalink: /research/
     margin: 0.75rem 0 1.75rem;
     line-height: 1.55;
   }
+
+  .research-presented {
+    color: #6C757D;
+    font-style: italic;
+    line-height: 1.45;
+    margin: 0.35rem 0 0.75rem;
+  }
+
+  .research-presented strong {
+    font-style: normal;
+    font-weight: 700;
+  }
 </style>
 
 #### Job-market paper
 
 "**The Demographic Origins of Premature Deindustrialization**"\\
 <span style="color:#7A1E2C;">Draft coming soon!</span>
+
+<div class="research-presented"><strong>Presented:</strong> The 2026 RCEA International Conference in Economics, Econometrics, and Finance; XXIX Workshop on Dynamic Macroeconomics in Vigo; RES (Royal Economic Society) 2026 Annual Conference, forthcoming; 41st Annual Congress of the EEA (European Economic Association), forthcoming; and IMF-OECD-PIIE-WB conference on Labor Markets, AI, and Demography, forthcoming.</div>
 
 This paper examines whether accelerated demographic transitions—by shrinking the young-adult (25–34) population share earlier—contribute to premature deindustrialization by changing economies’ sectoral comparative advantage. In a country-year panel, instrumenting the 25-34 population share with birth rates lagged 25-34 years, I show that larger young-adult cohorts predict higher manufacturing employment and larger manufacturing humps. IPUMS International microdata from more than 80 countries and household consumption data show that manufacturing work and durable-goods spending are concentrated among younger workers and households, whereas service employment rises with age and has steeper wage-age profiles. I quantify these mechanisms in a multi-sector open-economy OLG model with age-varying task productivity, mobility frictions, durable demand, and trade. Replacing Thai with historical U.S. demographics around the agricultural transition raises mean manufacturing employment by 3.4 percentage points, peak manufacturing employment by 3.8 points, and cumulative real output per capita growth by 53 points; 20 points come from life-cycle labor allocation and durable demand.
 {: .research-abstract }
@@ -36,6 +50,7 @@ This paper examines whether accelerated demographic transitions—by shrinking t
 <a style="color:#7A1E2C;" href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609">Draft</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/STFF_CEMFI_WP_2607.pdf">CEMFI WP version</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/Slides_STFF_MDJ_SE.pdf">Slides</a><br>
 *<span style="color:#6C757D;">Submitted</span>*
 
+<div class="research-presented"><strong>Presented:</strong> 49th SAEe 2024 (Simposio de la Asociación Española de Economía).</div>
 
 Why do some economies experience a pronounced manufacturing phase during structural transformation, while others move more directly into low-skilled services? This paper shows that financial underdevelopment, by shaping export competitiveness and domestic investment demand, is a quantitatively important driver of flat-manufacturing paths. Motivating evidence links financial depth to manufacturing activity and export performance. We then quantify the mechanism in a dynamic multi-country model of structural transformation and trade, where financial underdevelopment both weakens competitiveness in finance-dependent sectors and lowers demand for manufacturing-intensive investment goods. Moving flat-manufacturing economies halfway to the financial frontier closes over a quarter of the observed flat--steep peak gap; it raises real output per worker by 13 to 17 percent and real consumption per worker by 8 to 12 percent. Paired with lower nonfinancial trade costs, the same financial improvement closes almost three quarters of the peak gap, as finance shapes the manufacturing response that openness amplifies.
 {: .research-abstract }
