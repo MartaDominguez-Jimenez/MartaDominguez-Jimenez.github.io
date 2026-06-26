@@ -32,7 +32,7 @@ permalink: /research/
 
 #### Job-market paper
 
-"**The Demographic Origins of Premature Deindustrialization**"\\
+**The Demographic Origins of Premature Deindustrialization**\\
 <span style="color:#7A1E2C;">Draft coming soon!</span>
 
 <div class="research-presented"><strong>Presented:</strong> The 2026 RCEA International Conference in Economics, Econometrics, and Finance; XXIX Workshop on Dynamic Macroeconomics in Vigo; RES (Royal Economic Society) 2026 Annual Conference, forthcoming; 41st Annual Congress of the EEA (European Economic Association), forthcoming; and IMF-OECD-PIIE-WB conference on Labor Markets, AI, and Demography, forthcoming.</div>
@@ -45,7 +45,7 @@ This paper examines whether accelerated demographic transitions—by shrinking t
 #### Working papers
 
 
-"**Trade, Financial Frictions, and the Missing Manufacturing Window**"\\
+**Trade, Financial Frictions, and the Missing Manufacturing Window**\\
 *<span style="color:#1B5E20;">with Santiago Etchegaray</span>* \\
 <a style="color:#7A1E2C;" href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609">Draft</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/STFF_CEMFI_WP_2607.pdf">CEMFI WP version</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/Slides_STFF_MDJ_SE.pdf">Slides</a><br>
 *<span style="color:#6C757D;">Submitted</span>*
@@ -56,7 +56,7 @@ Why do some economies experience a pronounced manufacturing phase during structu
 {: .research-abstract }
 
 
-"**Tariffs as Taxes on Capital**"\\
+**Tariffs as Taxes on Capital**\\
 *<span style="color:#1B5E20;">with Rubén Domínguez-Díaz, José-Elías Gallegos and Javier Quintana</span>* \\
 <span style="color:#7A1E2C;">Draft available upon request</span>
 
@@ -66,7 +66,7 @@ Tariffs tax imported goods, but their macroeconomic effects depend on whether th
 
 #### Work in progress
 
-"**IMF Governance in a Fragmenting World**"\
+**IMF Governance in a Fragmenting World**\
 *<span style="color:#1B5E20;">with Martín Gonzalez-Eiras</span>* \\
 <span style="color:#7A1E2C;">Draft available upon request</span>
 
@@ -74,7 +74,7 @@ We develop a welfare-based theory of IMF governance in which voting weights and 
 {: .research-abstract }
 
 
-"**The Global Reach of EU Regulation: Evidence from Third-Country Trade**"
+**The Global Reach of EU Regulation: Evidence from Third-Country Trade**
 
 This paper tests the “Brussels effect”: whether EU non-tariff measures (NTMs) shape not only trade with the EU but also third-country trade in the same products. Using UN TRAINS NTM data matched to HS6 bilateral flows from UN Comtrade/WITS, it estimates how changes in EU NTMs affect the comovement between an exporter’s shipments to the EU and its shipments to non-EU destinations, controlling for tariffs and rich fixed effects. The results show a positive and significant propagation effect, consistent with EU regulation influencing firms’ global market choices.
 {: .research-abstract }
