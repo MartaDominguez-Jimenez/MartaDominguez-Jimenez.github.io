@@ -48,7 +48,7 @@ This paper examines whether accelerated demographic transitions—by shrinking t
 **Trade, Financial Frictions, and the Missing Manufacturing Window**\\
 *<span style="color:#1B5E20;">with Santiago Etchegaray</span>* \\
 <a style="color:#7A1E2C;" href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609">Draft</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="https://ssrn.com/abstract=7066615">SSRN</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/STFF_CEMFI_WP_2607.pdf">CEMFI WP version</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/Slides_STFF_MDJ_SE.pdf">Slides</a><br>
-*<span style="color:#6C757D;">Submitted</span>*
+*<span style="color:#123A66;">Submitted</span>*
 
 <div class="research-presented"><strong>Presented:</strong> 49th Simposio de la Asociación Española de Economía (SAEe) 2024.</div>
 
