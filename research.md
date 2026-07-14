@@ -60,7 +60,7 @@ Why do some economies experience a pronounced manufacturing phase during structu
 *<span style="color:#1B5E20;">with Rubén Domínguez-Díaz, José-Elías Gallegos and Javier Quintana</span>* \\
 <span style="color:#7A1E2C;">Draft available upon request</span>
 
-Existing production-network tariff models distinguish final demand from intermediate inputs, but typically subsume investment. Yet many imports are investment goods: tariffs on these directly tax capital formation. We quantify this margin with a new multi-country, multi-sector investment input-output matrix embedded in a New Keynesian trade model. Because investment is durable and forward-looking, capital-goods tariffs raise capital-formation costs and contract investment on impact. In a uniform US tariff experiment, accounting for capital more than doubles the impact GDP loss, from 1.2 to 2.5 percent. Across tariffed sectors, investment-goods exposure best predicts aggregate output, investment, and employment losses, shaping optimal tariff packages.
+This paper explores the macroeconomic consequences of levying tariffs on imported investment goods, which directly affect the household’s investment Euler equation. First, we construct a new multi-country and multi-sector investment input-output matrix to trace tariffs through international production chains. Second, we embed this in an open-economy New Keynesian model with production networks. In a uniform US tariff experiment, this channel more than doubles the impact contraction in GDP, with investment-goods exposure as the best predictor of aggregate output losses. Holding the average tariff fixed, redesigning its composition to avoid the investment network cuts cumulative domestic output losses by two-thirds.
 {: .research-abstract }
 
 
