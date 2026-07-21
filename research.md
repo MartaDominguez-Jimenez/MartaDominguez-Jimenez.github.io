@@ -57,7 +57,7 @@ Why do some economies experience a pronounced manufacturing phase during structu
 
 
 **Tariffs as Taxes on Capital**\\
-*<span style="color:#1B5E20;">with Rubén Domínguez-Díaz, José-Elías Gallegos and Javier Quintana</span>* \\
+*<span style="color:#1B5E20;">with <a style="color:#1B5E20;" href="https://www.rubendominguezdiaz.com/">Rubén Domínguez-Díaz</a>, <a style="color:#1B5E20;" href="https://www.joseeliasgallegos.com/">José-Elías Gallegos</a> and <a style="color:#1B5E20;" href="https://sites.google.com/view/javier-quintana">Javier Quintana</a></span>* \\
 <a style="color:#7A1E2C;" href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260720">Draft</a><br>
 *<span style="color:#123A66;">Submitted</span>*
 
