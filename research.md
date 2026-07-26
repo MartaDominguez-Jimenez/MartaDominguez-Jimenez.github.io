@@ -47,7 +47,7 @@ Manufacturing-led development is increasingly muted in late-developing economies
 
 **Trade, Financial Frictions, and the Missing Manufacturing Window**\\
 *<span style="color:#1B5E20;">with Santiago Etchegaray</span>* \\
-<a style="color:#7A1E2C;" href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609">Draft</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="https://ssrn.com/abstract=7066615">SSRN</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/STFF_CEMFI_WP_2607.pdf">CEMFI WP version</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/Slides_STFF_MDJ_SE.pdf">Slides</a><br>
+<a style="color:#7A1E2C;" href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609" target="_blank" rel="noopener noreferrer">Draft</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="https://ssrn.com/abstract=7066615">SSRN</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/STFF_CEMFI_WP_2607.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP version</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/Slides_STFF_MDJ_SE.pdf" target="_blank" rel="noopener noreferrer">Slides</a><br>
 *<span style="color:#123A66;">Submitted</span>*
 
 <div class="research-presented"><strong>Presented:</strong> Simposio de la Asociación Española de Economía (SAEe) 2024.</div>
@@ -58,7 +58,7 @@ Why do some economies experience a pronounced manufacturing phase during structu
 
 **Tariffs as Taxes on Capital**\\
 *<span style="color:#1B5E20;">with <a style="color:#1B5E20;" href="https://www.rubendominguezdiaz.com/" target="_blank" rel="noopener noreferrer">Rubén Domínguez-Díaz</a>, <a style="color:#1B5E20;" href="https://www.joseeliasgallegos.com/" target="_blank" rel="noopener noreferrer">José-Elías Gallegos</a> and <a style="color:#1B5E20;" href="https://sites.google.com/view/javier-quintana" target="_blank" rel="noopener noreferrer">Javier Quintana</a></span>* \\
-<a style="color:#7A1E2C;" href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726">Draft</a><br>
+<a style="color:#7A1E2C;" href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726" target="_blank" rel="noopener noreferrer">Draft</a><br>
 *<span style="color:#123A66;">Submitted</span>*
 
 <div class="research-presented"><strong>Presented:</strong> BdF-BoE-BdI International Macroeconomics Workshop 2026 (forthcoming).</div>
