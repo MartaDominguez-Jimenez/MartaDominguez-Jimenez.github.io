@@ -70,7 +70,7 @@ This paper explores the macroeconomic consequences of levying tariffs on importe
 #### Work in progress
 
 **IMF Governance in a Fragmenting World**\
-*<span style="color:#1B5E20;">with Martín Gonzalez-Eiras</span>* \\
+*<span style="color:#1B5E20;">with <a style="color:#1B5E20;" href="https://sites.google.com/view/mgeiras/inicio?authuser=0" target="_blank" rel="noopener noreferrer">Martín Gonzalez-Eiras</a></span>* \\
 <span style="color:#7A1E2C;">Draft available upon request</span>
 
 We develop a welfare-based theory of IMF governance in which voting weights and contributions reflect economic size, crisis risk, and trade linkages that transmit crises across countries. In the relatively balanced risk environment of Bretton Woods, the efficient voting rule can be implemented by quotas proportional to GDP at PPP and openness. After Bretton Woods, as IMF borrowing shifted toward emerging and developing economies, quotas remain optimal, but vote aggregation must account for unequal crisis risk. In a bipolar world with alliance-dependent trade costs, the model’s efficient allocation gives more voice to China and countries exposed to China-centered trade. Without governance reform, a China-centered coalition may find the Fund less attractive, raising the risk of institutional separation.
