@@ -3,6 +3,38 @@ layout: home
 title: "Home"
 ---
 
+<style>
+  .home-upcoming {
+    margin-top: 1.75rem;
+    font-size: 0.9rem;
+    line-height: 1.45;
+  }
+
+  .home-upcoming h2 {
+    margin: 0 0 0.75rem;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+
+  .home-upcoming-paper + .home-upcoming-paper {
+    margin-top: 0.85rem;
+  }
+
+  .home-upcoming-title {
+    margin-bottom: 0.25rem;
+    font-style: italic;
+  }
+
+  .home-upcoming-event {
+    margin-bottom: 0.15rem;
+  }
+
+  .home-upcoming-date {
+    color: #6C757D;
+    white-space: nowrap;
+  }
+</style>
+
 Hello! 
 
 
