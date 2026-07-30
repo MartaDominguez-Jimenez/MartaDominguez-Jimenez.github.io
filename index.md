@@ -6,8 +6,6 @@ title: "Home"
 <style>
   .home-upcoming {
     margin-top: 1.75rem;
-    font-size: 0.9rem;
-    line-height: 1.45;
   }
 
   .home-upcoming h2 {
