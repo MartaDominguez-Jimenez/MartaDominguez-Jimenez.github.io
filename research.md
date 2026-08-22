@@ -35,8 +35,7 @@ permalink: /research/
 **The Demographic Origins of Premature Deindustrialization**\\
 <span style="color:#7A1E2C;">Draft coming soon!</span>
 
-<div class="research-presented"><strong>Presented:</strong> RCEA Conference 2026; XXIX Workshop on Dynamic Macroeconomics 2026; RES Annual Conference 2026; Economics JM Bootcamp 2026.<br>
-<strong>Forthcoming:</strong> EEA Annual Congress 2026; IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography 2026; STEG Theme 3 Workshop 2027.</div>
+<div class="research-presented"><strong>Presented:</strong> RCEA Conference 2026; XXIX Workshop on Dynamic Macroeconomics 2026; RES Annual Conference 2026; Economics JM Bootcamp 2026; EEA-ESEM Congress 2026; IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography 2026 (forthcoming); STEG Theme 3 Workshop 2027 (forthcoming).</div>
 
 This paper studies the consequences of workforce aging earlier in the development process for low- and middle-income economies. I ask whether aging while still industrializing helps explain premature deindustrialization---manufacturing employment peaking at lower shares and incomes than in earlier industrializers---and what it implies for output. Worker-level data document the central mechanism: productive abilities follow different life-cycle profiles and sectors use them with different intensities, shifting comparative advantage from manufacturing toward services as workers age. Younger households also spend more on manufactured durables. Consistent with these mechanisms, larger young-adult cohorts, instrumented with birth rates 25–34 years earlier, predict higher manufacturing employment shares in the aggregate data, while countries with larger young-adult cohorts before their manufacturing peak reach higher peaks at higher income levels. In an open-economy OLG model that embeds both mechanisms, calibrated to Indonesia, replacing only the demographic path---an older one (Thailand) with a younger one (the U.S., historically)---raises peak manufacturing employment by 5.6 percentage points and cumulative output-per-worker growth by 19 points, mainly through worker sorting.
 {: .research-abstract }
@@ -62,7 +61,7 @@ Why do some economies experience a pronounced manufacturing phase during structu
 <a style="color:#7A1E2C;" href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726" target="_blank" rel="noopener noreferrer">Draft</a> <span style="color:#6C757D;">|</span> <a style="color:#7A1E2C;" href="/files/TTC_CEMFI_WP_2610.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP version</a><br>
 *<span style="color:#123A66;">Submitted</span>*
 
-<div class="research-presented"><strong>Forthcoming:</strong> BdF-BoE-BdI International Macroeconomics Workshop 2026.</div>
+<div class="research-presented"><strong>Presented:</strong> BdF-BoE-BdI International Macroeconomics Workshop 2026 (forthcoming).</div>
 
 This paper explores the macroeconomic consequences of levying tariffs on imported investment goods, which directly affect the household’s investment Euler equation. First, we construct a new multi-country and multi-sector investment input-output matrix to trace investment goods through international production chains. Second, we embed this in an open-economy New Keynesian model with production networks. In a uniform US tariff experiment, this channel more than doubles the impact contraction in GDP, with investment-goods exposure as the best predictor of aggregate output losses. Holding the average tariff fixed, redesigning its composition to avoid the investment network cuts cumulative domestic output losses by two-thirds.
 {: .research-abstract }

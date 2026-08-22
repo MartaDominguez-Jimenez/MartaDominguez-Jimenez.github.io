@@ -40,7 +40,6 @@ Hello! I am a 5th-year PhD student at CEMFI. My research focuses on macroeconomi
 
   <div class="home-upcoming-paper">
     <p class="home-upcoming-title">The Demographic Origins of Premature Deindustrialization</p>
-    <p class="home-upcoming-event"><span class="home-upcoming-date">17–20 Aug 2026</span> · EEA–ESEM Congress</p>
     <p class="home-upcoming-event"><span class="home-upcoming-date">17–18 Nov 2026</span> · IMF–OECD–PIIE–WB Conference</p>
     <p class="home-upcoming-event"><span class="home-upcoming-date">6–9 Jan 2027</span> · STEG Annual Conference, Theme 3 Workshop</p>
   </div>
