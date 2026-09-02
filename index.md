@@ -33,7 +33,7 @@ title: "Home"
   }
 </style>
 
-Hello! I am a 5th-year PhD student at CEMFI. My research focuses on macroeconomics and international trade. You can contact me at [marta.dominguez@cemfi.edu.es](mailto:marta.dominguez@cemfi.edu.es).
+Hello! I am a 6th-year PhD student at CEMFI. I will be on the 2026/2027 job market. My research focuses on macroeconomics and international trade. You can contact me at [marta.dominguez@cemfi.edu.es](mailto:marta.dominguez@cemfi.edu.es).
 
 <section class="home-upcoming" aria-labelledby="upcoming-presentations">
   <h2 id="upcoming-presentations">Upcoming presentations</h2>
