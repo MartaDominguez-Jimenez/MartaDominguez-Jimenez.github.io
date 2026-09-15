@@ -21,6 +21,13 @@ permalink: /cv/
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
+      <span class="cv-row__title">Visiting PhD Student</span>
+      <span class="cv-row__sub">Columbia Business School, Columbia University</span>
+    </div>
+    <span class="cv-row__right">September–October 2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
       <span class="cv-row__title">MRes in Economics and Finance</span>
       <span class="cv-row__sub">CEMFI</span>
     </div>
