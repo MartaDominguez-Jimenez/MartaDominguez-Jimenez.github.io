@@ -1,4 +1,5 @@
 menu:
+- {name: 'Home', url: '/'}
 - {name: 'Research', url: '/research'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Policy publications', url: '/policy-publications/'}
@@ -14,9 +15,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/MartaDominguez-Jimenez'}
-- {icon: 'twitter', link: 'https://x.com/MartaDomnguezJ1'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/marta-dom%C3%ADnguez-jim%C3%A9nez-444a1020a/'}
+- {name: 'GitHub', icon: 'github', link: 'https://github.com/MartaDominguez-Jimenez'}
+- {name: 'X', icon: 'twitter', link: 'https://x.com/MartaDomnguezJ1'}
+- {name: 'LinkedIn', icon: 'linkedin', link: 'https://www.linkedin.com/in/marta-dom%C3%ADnguez-jim%C3%A9nez-444a1020a/'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}

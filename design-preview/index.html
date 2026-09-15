@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Local design study | Marta Dominguez-Jimenez</title>
+  <link rel="stylesheet" href="./preview.css">
+  <script defer src="/assets/libs/fontawesome/all.min.js"></script>
+  <script defer src="./preview.js"></script>
+</head>
+<body>
+  <div class="study-toolbar" role="region" aria-label="Local design comparison">
+    <span class="study-label">Local preview</span>
+    <div class="design-choices" role="group" aria-label="Design">
+      <button type="button" data-design="editorial" aria-pressed="false">01 <span>Editorial</span></button>
+      <button type="button" data-design="sidebar" aria-pressed="false">02 <span>Sidebar</span></button>
+      <button type="button" data-design="modern" aria-pressed="false">03 <span>Contemporary</span></button>
+    </div>
+    <label class="abstract-setting"><input type="checkbox" id="full-abstracts" checked><span>Full abstracts</span></label>
+    <a class="current-version" href="/">Current version <i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+  </div>
+  <div id="preview" aria-busy="true"><p class="loading">Loading the local preview...</p></div>
+  <noscript><p class="loading">Enable JavaScript to compare the local designs.</p></noscript>
+</body>
+</html>

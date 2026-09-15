@@ -1,39 +1,5 @@
-﻿---
+---
+# Front matter is required for Jekyll to compile this file
 ---
 
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
-$bodyFont: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$linkColor: #212529;
-
-body {
-  background: $backgroundColor;
-  color: $bodyColor;
-  font-family: $bodyFont;
-}
-
-body a {
-  color: $linkColor;
-}
-
-/* homepage photo sizing */
-.home-photo {
-  width: 360px !important;
-  height: auto !important;
-  max-width: 360px !important;
-}
-
-header a,
-nav a,
-.navbar a {
-  color: #0A2342 !important;   /* navy */
-}
-
-.nav-link,
-.navbar-brand {
-  color: #0A2342 !important;
-}
-.nav-link:hover,
-.navbar-brand:hover {
-  color: #123A66 !important;
-}
+@import "site-1c";

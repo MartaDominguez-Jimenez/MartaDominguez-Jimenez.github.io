@@ -1,9 +1,6 @@
-<footer class="pt-5 my-5 text-muted border-top">
-  <div class="row">
-    <div class="col-md-6 text-end social-media-icons">
-      {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="ms-3 fs-5" target="_blank" rel="noopener noreferrer"><i class="fab fa-{{ item.icon }}"></i></a>
-      {% endfor %}
-    </div>
-  </div>
+<footer class="site-footer">
+  <a href="mailto:{{ site.email }}">Email</a>
+  {% for item in site.data.settings.social %}
+    <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{% if item.icon == 'github' %}GitHub{% elsif item.icon == 'twitter' %}X{% elsif item.icon == 'linkedin' %}LinkedIn{% else %}{{ item.icon }}{% endif %}</a>
+  {% endfor %}
 </footer>
