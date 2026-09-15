@@ -2,11 +2,12 @@
 layout: default
 ---
 
-<div class="row g-5 mb-5">
-  <div class="col-md-6">
+<div class="home">
+  <div class="home__text">
     {{ content }}
   </div>
-  <div class="col-md-6 d-flex justify-content-end pe-md-4">
-    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" class="home-photo" width="360" style="width:360px; height:auto;">
+  <div class="home__photo">
+    <img src="{{ site.github.url }}/assets/img/home.jpg" alt="{{ site.title }}">
+    <p class="home__caption">CEMFI · Casado del Alisal 5, 28014 Madrid</p>
   </div>
 </div>
