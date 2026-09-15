@@ -7,7 +7,12 @@ permalink: /cv/
 <div class="prose">
 
 <div class="cv-head">
-  <a class="cv-download" href="/files/CV_Marta_Dominguez-Jimenez.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
+  <div>
+    <span class="cv-row__sub"><a href="mailto:marta.dominguez@cemfi.edu.es">marta.dominguez@cemfi.edu.es</a></span>
+    <span class="cv-row__sub">Casado del Alisal 5, 28014, Madrid, Spain</span>
+    <span class="cv-row__sub"><a href="{{ '/' | relative_url }}">https://martadominguez-jimenez.github.io/</a></span>
+  </div>
+  <a class="cv-download" href="{{ '/files/CV_Marta_Dominguez-Jimenez.pdf' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" target="_blank" rel="noopener noreferrer">Download PDF</a>
 </div>
 
 <section class="cv-section">
@@ -91,29 +96,25 @@ permalink: /cv/
     </div>
     <span class="cv-row__right">2019–2021</span>
   </div>
-  <p class="cv-bullet"><span>Processing and carrying out statistical analysis of economic data to provide an insight for policy formulation.</span></p>
-  <p class="cv-bullet"><span>Working on research papers and analytical reports on macroeconomics, international trade and capital flows (see Pre-PhD Policy Publications).</span></p>
   <div class="cv-row">
     <div class="cv-row__main">
       <span class="cv-row__title">Citigroup London, Quantitative Investment Strategies (Markets), Analyst</span>
     </div>
     <span class="cv-row__right">2018–2019</span>
   </div>
-  <p class="cv-bullet"><span>Develop and price bespoke instruments largely composed of EM rates products for specific client needs.</span></p>
-  <p class="cv-bullet"><span>Analyse economic data, forecast likely market movements from different scenarios centred around key events.</span></p>
 </section>
 
 <section class="cv-section">
-  <p class="section-label">Research assistance</p>
+  <p class="section-label">Research assistance experience</p>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">CEMFI, Research Assistant for Professor Sebastian Fanelli</span>
+      <span class="cv-row__title">CEMFI, Research Assistant for Professor Sebastian Fanelli.</span>
     </div>
     <span class="cv-row__right">2023–2025</span>
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">CEMFI, Summer Research Assistant for Professor Josep Pijoan-Mas</span>
+      <span class="cv-row__title">CEMFI, Summer Research Assistant for Professor Josep Pijoan-Mas.</span>
     </div>
     <span class="cv-row__right">2022</span>
   </div>
@@ -148,25 +149,37 @@ permalink: /cv/
   <p class="section-label">Conferences and seminars</p>
   <div class="cv-row">
     <div class="cv-row__main">
+      <span class="cv-row__title">49th Simposio de la Asociación Española de Economía (SAEe)</span>
+    </div>
+    <span class="cv-row__right">2024</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
       <span class="cv-row__title">RCEA International Conference in Economics, Econometrics, and Finance</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">XXIX Workshop on Dynamic Macroeconomics, Vigo</span>
+      <span class="cv-row__title">XXIX Workshop on Dynamic Macroeconomics in Vigo</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">RES (Royal Economic Society) Annual Conference (forthcoming)</span>
+      <span class="cv-row__title">Royal Economic Society Annual Conference</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">41st Annual Congress of the EEA (European Economic Association) (forthcoming)</span>
+      <span class="cv-row__title">Economics Job Market Bootcamp in Tuscany</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">EEA-ESEM Congress</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
@@ -178,9 +191,15 @@ permalink: /cv/
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">49th SAEe (Simposio de la Asociación Española de Economía)</span>
+      <span class="cv-row__title">BdF-BoE-BdI International Macroeconomics Workshop (forthcoming)</span>
     </div>
-    <span class="cv-row__right">2024</span>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">STEG Annual Conference, Theme 3 Workshop (forthcoming)</span>
+    </div>
+    <span class="cv-row__right">2027</span>
   </div>
 </section>
 
@@ -218,7 +237,7 @@ permalink: /cv/
   <div class="cv-row">
     <div class="cv-row__main">
       <span class="cv-row__title">“la Caixa” Foundation, Doctoral Fellowship INPhINIT Retaining</span>
-      <span class="cv-row__sub">ID 100010434, fellowship code LCF/BQ/DR23/12000010</span>
+      <span class="cv-row__sub">ID 100010434 and fellowship code LCF/BQ/DR23/12000010</span>
     </div>
     <span class="cv-row__right">2023–present</span>
   </div>
@@ -239,5 +258,7 @@ permalink: /cv/
     </div>
   </div>
 </section>
+
+<p class="cv-row__sub"><em>Last updated: September 2026</em></p>
 
 </div>
