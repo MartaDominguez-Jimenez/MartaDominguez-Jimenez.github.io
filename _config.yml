@@ -6,3 +6,18 @@ email: marta.dominguez@cemfi.edu.es
 
 include:
   - _pages
+
+# Keep working files and local previews out of the published website.
+exclude:
+  - CV_new.md
+  - design-preview
+  - _preview
+  - tmp
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - academic.gemspec
+  - PASTE_THE_PATH_FROM_THE_OUTPUT.txt
+  - PASTE_THE_PATH_YOU_SEE_HERE.txt
+  # main.scss generates the current stylesheet at this same output path.
+  - assets/css/main.css
