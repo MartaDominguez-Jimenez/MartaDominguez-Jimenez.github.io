@@ -7,11 +7,6 @@ permalink: /cv/
 <div class="prose">
 
 <div class="cv-head">
-  <div>
-    <span class="cv-row__sub"><a href="mailto:marta.dominguez@cemfi.edu.es">marta.dominguez@cemfi.edu.es</a></span>
-    <span class="cv-row__sub">Casado del Alisal 5, 28014, Madrid, Spain</span>
-    <span class="cv-row__sub"><a href="{{ '/' | relative_url }}">https://martadominguez-jimenez.github.io/</a></span>
-  </div>
   <a class="cv-download" href="{{ '/files/CV_Marta_Dominguez-Jimenez.pdf' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" target="_blank" rel="noopener noreferrer">Download PDF</a>
 </div>
 
