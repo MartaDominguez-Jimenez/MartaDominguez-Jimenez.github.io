@@ -1,9 +1,11 @@
 <header class="site-header">
   <div class="site-header__inner">
     <a class="site-title" href="{{ site.github.url }}/">{{ site.title }}</a>
-    <nav class="site-nav">
+    <nav class="site-nav" aria-label="Primary navigation">
+      {% assign current_path = page.url | remove: '/' %}
       {% for item in site.data.settings.menu %}
-        <a href="{{ site.github.url }}{{ item.url }}"{% if page.url contains item.url %} class="is-active"{% endif %}>{{ item.name }}</a>
+        {% assign nav_path = item.url | remove: '/' %}
+        <a href="{{ item.url | relative_url }}"{% if current_path == nav_path %} class="is-active" aria-current="page"{% endif %}>{{ item.name }}</a>
       {% endfor %}
     </nav>
   </div>

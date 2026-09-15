@@ -22,7 +22,7 @@ $gutter:  clamp(20px, 4vw, 48px);  // side gutter, shrinks on phones
 
 *, *::before, *::after { box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; scrollbar-gutter: stable; }
 
 body {
   margin: 0;
