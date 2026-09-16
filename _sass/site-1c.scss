@@ -460,9 +460,9 @@ a:hover { color: $maroon-dark; }
 /* ---------- Narrow screens ---------- */
 
 @media (max-width: 860px) {
-  .home { grid-template-columns: 1fr; gap: 32px; }
-  .home__photo img { max-width: 320px; }
-  .site-footer { justify-content: flex-start; }
+  .home { grid-template-columns: 1fr; gap: 24px; }
+  .home__photo { grid-row: 1; width: min(180px, 100%); justify-self: center; }
+  .site-footer { justify-content: center; }
   .upcoming__date { flex: 0 0 124px; }
   .abstract__body { text-align: left; }
 }
