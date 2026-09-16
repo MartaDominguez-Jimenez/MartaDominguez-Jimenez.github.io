@@ -461,7 +461,7 @@ a:hover { color: $maroon-dark; }
 
 @media (max-width: 860px) {
   .home { grid-template-columns: 1fr; gap: 24px; }
-  .home__photo { grid-row: 1; width: min(220px, 100%); justify-self: center; }
+  .home__photo { grid-row: 1; width: min(250px, 100%); justify-self: center; }
   .site-footer { justify-content: center; }
   .upcoming__date { flex: 0 0 124px; }
   .abstract__body { text-align: left; }
