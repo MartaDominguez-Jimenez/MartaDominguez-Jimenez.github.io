@@ -9,7 +9,7 @@ permalink: /research/
 <p class="section-label">Job-market paper</p>
 
 <article class="paper">
-  <h2 class="paper__title">The Demographic Origins of Premature Deindustrialization</h2>
+  <h2 class="paper__title">Demographic Origins of Premature Deindustrialization</h2>
   <div class="paper__links"><span class="paper__note">Draft coming soon!</span></div>
   <p class="paper__presented"><strong>Presented:</strong> RCEA Conference 2026; XXIX Workshop on Dynamic Macroeconomics 2026; RES Annual Conference 2026; Economics JM Bootcamp 2026; EEA-ESEM Congress 2026; IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography 2026 (forthcoming); STEG Theme 3 Workshop 2027 (forthcoming).</p>
   <details class="abstract">
