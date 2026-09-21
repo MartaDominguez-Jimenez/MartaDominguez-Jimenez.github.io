@@ -11,7 +11,7 @@ title: "Home"
   <h2 id="upcoming-presentations">Upcoming presentations</h2>
 
   <div class="upcoming__paper">
-    <p class="upcoming__title">The Demographic Origins of Premature Deindustrialization</p>
+    <p class="upcoming__title">Demographic Origins of Premature Deindustrialization</p>
     <p class="upcoming__event"><span class="upcoming__date">17–18 Nov 2026</span> <span>IMF–OECD–PIIE–WB Conference</span></p>
     <p class="upcoming__event"><span class="upcoming__date">6–9 Jan 2027</span> <span>STEG Annual Conference, Theme 3 Workshop</span></p>
   </div>
