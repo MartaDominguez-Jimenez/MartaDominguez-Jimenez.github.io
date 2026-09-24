@@ -18,7 +18,7 @@ title: "Home"
 
   <div class="upcoming__paper">
     <p class="upcoming__title">Tariffs as Taxes on Capital</p>
-    <p class="upcoming__event"><span class="upcoming__date">29–30 Oct 2026</span> <span>Trade, Value Chains and Financial Linkages in the Global Economy Conference</span></p>
+    <p class="upcoming__event"><span class="upcoming__date">29–30 Oct 2026</span> <span>BdI–ECB Trade and Value Chains Conference</span></p>
     <p class="upcoming__event"><span class="upcoming__date">13 Nov 2026</span> <span>BdF–BoE–BdI International Macroeconomics Workshop</span></p>
   </div>
 </section>
