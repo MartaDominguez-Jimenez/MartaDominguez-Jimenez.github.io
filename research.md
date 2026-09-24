@@ -45,7 +45,7 @@ permalink: /research/
     <a href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726" target="_blank" rel="noopener noreferrer">Draft</a>
     <a href="/files/TTC_CEMFI_WP_2610.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP version</a>
   </div>
-  <p class="paper__presented"><strong>Presented:</strong> BdF-BoE-BdI International Macroeconomics Workshop 2026 (forthcoming).</p>
+  <p class="paper__presented"><strong>Presented:</strong> Trade, Value Chains and Financial Linkages in the Global Economy Conference 2026 (forthcoming); BdF-BoE-BdI International Macroeconomics Workshop 2026 (forthcoming).</p>
   <details class="abstract">
     <summary>Abstract</summary>
     <p class="abstract__body">This paper explores the macroeconomic consequences of levying tariffs on imported investment goods, which directly affect the household’s investment Euler equation. First, we construct a new multi-country and multi-sector investment input-output matrix to trace investment goods through international production chains. Second, we embed this in an open-economy New Keynesian model with production networks. In a uniform US tariff experiment, this channel more than doubles the impact contraction in GDP, with investment-goods exposure as the best predictor of aggregate output losses. Holding the average tariff fixed, redesigning its composition to avoid the investment network cuts cumulative domestic output losses by two-thirds.</p>
