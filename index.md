@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-<p class="lede">Hello! I am a 6th-year PhD student at CEMFI, currently visiting Columbia Business School. My research focuses on macroeconomics, growth and development and international trade. You can contact me at <a href="mailto:marta.dominguez@cemfi.edu.es">marta.dominguez@cemfi.edu.es</a>.</p>
+<p class="lede">Hello! I am a 6th-year PhD student at CEMFI, currently visiting Columbia Business School. My research focuses on macroeconomics, growth and development, international trade and international macroeconomics. You can contact me at <a href="mailto:marta.dominguez@cemfi.edu.es">marta.dominguez@cemfi.edu.es</a>.</p>
 
 <p class="jm-note">I will be on the job market during the 2026-2027 academic year.</p>
 
