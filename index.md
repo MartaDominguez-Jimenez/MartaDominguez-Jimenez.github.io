@@ -13,6 +13,9 @@ title: "Home"
   <div class="upcoming__paper">
     <p class="upcoming__title">Demographic Origins of Premature Deindustrialization</p>
     <p class="upcoming__event"><span class="upcoming__date">17–18 Nov 2026</span> <span>IMF–OECD–PIIE–WB Conference</span></p>
+    <p class="upcoming__event"><span class="upcoming__date">2–4 Dec 2026</span> <span>Econometric Society Winter Meeting</span></p>
+    <p class="upcoming__event"><span class="upcoming__date">3–8 Dec 2026</span> <span>CEPR Paris Symposium</span></p>
+    <p class="upcoming__event"><span class="upcoming__date">16–18 Dec 2026</span> <span>SAEe Symposium</span></p>
     <p class="upcoming__event"><span class="upcoming__date">6–9 Jan 2027</span> <span>STEG Annual Conference, Theme 3 Workshop</span></p>
   </div>
 
