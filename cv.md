@@ -78,7 +78,7 @@ permalink: /cv/
   <p class="section-label">Research interests</p>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">Macroeconomics, International Trade</span>
+      <span class="cv-row__title">Macroeconomics, Growth and Development, International Trade, International Macroeconomics</span>
     </div>
   </div>
 </section>
