@@ -21,6 +21,21 @@ permalink: /research/
 <p class="section-label">Working papers</p>
 
 <article class="paper">
+  <h2 class="paper__title">Tariffs as Taxes on Capital</h2>
+  <p class="paper__authors">with <a href="https://www.rubendominguezdiaz.com/" target="_blank" rel="noopener noreferrer">Rubén Domínguez-Díaz</a>, <a href="https://www.joseeliasgallegos.com/" target="_blank" rel="noopener noreferrer">José-Elías Gallegos</a> and <a href="https://sites.google.com/view/javier-quintana" target="_blank" rel="noopener noreferrer">Javier Quintana</a></p>
+  <p class="paper__status">Submitted</p>
+  <div class="paper__links">
+    <a href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726" target="_blank" rel="noopener noreferrer">Draft</a>
+    <a href="/files/TTC_CEMFI_WP_2610.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP version</a>
+  </div>
+  <p class="paper__presented"><strong>Presented:</strong> BdI-ECB Trade, Value Chains and Financial Linkages in the Global Economy Conference 2026 (forthcoming); BdF-BoE-BdI International Macroeconomics Workshop 2026 (forthcoming).</p>
+  <details class="abstract">
+    <summary>Abstract</summary>
+    <p class="abstract__body">This paper explores the macroeconomic consequences of levying tariffs on imported investment goods, which directly affect the household’s investment Euler equation. First, we construct a new multi-country and multi-sector investment input-output matrix to trace investment goods through international production chains. Second, we embed this in an open-economy New Keynesian model with production networks. In a uniform US tariff experiment, this channel more than doubles the impact contraction in GDP, with investment-goods exposure as the best predictor of aggregate output losses. Holding the average tariff fixed, redesigning its composition to avoid the investment network cuts cumulative domestic output losses by two-thirds.</p>
+  </details>
+</article>
+
+<article class="paper">
   <h2 class="paper__title">Trade, Financial Frictions, and the Missing Manufacturing Window</h2>
   <p class="paper__authors">with Santiago Etchegaray</p>
   <p class="paper__status">Submitted</p>
@@ -34,21 +49,6 @@ permalink: /research/
   <details class="abstract">
     <summary>Abstract</summary>
     <p class="abstract__body">Why do some economies experience a pronounced manufacturing phase during structural transformation, while others move more directly into low-skilled services? This paper shows that financial underdevelopment, by shaping export competitiveness and domestic investment demand, is a quantitatively important driver of flat-manufacturing paths. Motivating evidence links financial depth to manufacturing activity and export performance. We then quantify the mechanism in a dynamic multi-country model of structural transformation and trade, where financial underdevelopment both weakens competitiveness in finance-dependent sectors and lowers demand for manufacturing-intensive investment goods. Moving flat-manufacturing economies halfway to the financial frontier closes over a quarter of the observed flat–steep peak gap; it raises real output per worker by 13 to 17 percent and real consumption per worker by 8 to 12 percent. Paired with lower nonfinancial trade costs, the same financial improvement closes almost three quarters of the peak gap, as finance shapes the manufacturing response that openness amplifies.</p>
-  </details>
-</article>
-
-<article class="paper">
-  <h2 class="paper__title">Tariffs as Taxes on Capital</h2>
-  <p class="paper__authors">with <a href="https://www.rubendominguezdiaz.com/" target="_blank" rel="noopener noreferrer">Rubén Domínguez-Díaz</a>, <a href="https://www.joseeliasgallegos.com/" target="_blank" rel="noopener noreferrer">José-Elías Gallegos</a> and <a href="https://sites.google.com/view/javier-quintana" target="_blank" rel="noopener noreferrer">Javier Quintana</a></p>
-  <p class="paper__status">Submitted</p>
-  <div class="paper__links">
-    <a href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726" target="_blank" rel="noopener noreferrer">Draft</a>
-    <a href="/files/TTC_CEMFI_WP_2610.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP version</a>
-  </div>
-  <p class="paper__presented"><strong>Presented:</strong> BdI-ECB Trade, Value Chains and Financial Linkages in the Global Economy Conference 2026 (forthcoming); BdF-BoE-BdI International Macroeconomics Workshop 2026 (forthcoming).</p>
-  <details class="abstract">
-    <summary>Abstract</summary>
-    <p class="abstract__body">This paper explores the macroeconomic consequences of levying tariffs on imported investment goods, which directly affect the household’s investment Euler equation. First, we construct a new multi-country and multi-sector investment input-output matrix to trace investment goods through international production chains. Second, we embed this in an open-economy New Keynesian model with production networks. In a uniform US tariff experiment, this channel more than doubles the impact contraction in GDP, with investment-goods exposure as the best predictor of aggregate output losses. Holding the average tariff fixed, redesigning its composition to avoid the investment network cuts cumulative domestic output losses by two-thirds.</p>
   </details>
 </article>
 
