@@ -126,6 +126,13 @@ permalink: /cv/
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
+      <span class="cv-row__title">Pre-course: Economics (Master in Public Policy)</span>
+      <span class="cv-row__sub">Course instructor. IE University</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
       <span class="cv-row__title">Country Report and Risk Assessment course (undergraduate)</span>
       <span class="cv-row__sub">Guest lecturer (sessions on economic and financial risk). UC3M</span>
     </div>
@@ -174,7 +181,25 @@ permalink: /cv/
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">EEA-ESEM Congress</span>
+      <span class="cv-row__title">41st Annual Congress of the European Economic Association</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">Columbia Business School Macro Lunch</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">BdI-ECB Trade, Value Chains and Financial Linkages in the Global Economy Conference (forthcoming)</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">BdF-BoE-BdI International Macroeconomics Workshop (forthcoming)</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
@@ -186,7 +211,19 @@ permalink: /cv/
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">BdF-BoE-BdI International Macroeconomics Workshop (forthcoming)</span>
+      <span class="cv-row__title">European Winter Meeting of the Econometric Society (EWMES) (forthcoming)</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">CEPR Paris Symposium (forthcoming)</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">51st Simposio de la Asociación Española de Economía (SAEe) (forthcoming)</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
