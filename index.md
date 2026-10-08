@@ -11,7 +11,7 @@ title: "Home"
   <h2 id="upcoming-presentations">Upcoming presentations</h2>
 
   <div class="upcoming__paper">
-    <p class="upcoming__title">Demographic Origins of Premature Deindustrialization</p>
+    <p class="upcoming__title">Demographic Origins of Premature Deindustrialization (JMP)</p>
     <p class="upcoming__event"><span class="upcoming__date">17–18 Nov 2026</span> <span>IMF–OECD–PIIE–WB Conference</span></p>
     <p class="upcoming__event"><span class="upcoming__date">2–4 Dec 2026</span> <span>European Winter Meeting of the Econometric Society</span></p>
     <p class="upcoming__event"><span class="upcoming__date">3–8 Dec 2026</span> <span>CEPR Paris Symposium</span></p>
