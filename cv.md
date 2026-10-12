@@ -67,10 +67,10 @@ permalink: /cv/
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">Josep Pijoan-Mas</span>
-      <span class="cv-row__sub">CEMFI</span>
+      <span class="cv-row__title">Tommaso Porzio</span>
+      <span class="cv-row__sub">Columbia Business School</span>
     </div>
-    <span class="cv-row__right"><a href="mailto:pijoan@cemfi.es">pijoan@cemfi.es</a></span>
+    <span class="cv-row__right"><a href="mailto:tommaso.porzio@columbia.edu">tommaso.porzio@columbia.edu</a></span>
   </div>
 </section>
 
@@ -291,6 +291,6 @@ permalink: /cv/
   </div>
 </section>
 
-<p class="cv-row__sub"><em>Last updated: September 2026</em></p>
+<p class="cv-row__sub"><em>Last updated: October 2026</em></p>
 
 </div>
