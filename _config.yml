@@ -10,6 +10,7 @@ include:
 # Keep working files and local previews out of the published website.
 exclude:
   - CV_new.md
+  - CV_good.md
   - design-preview
   - _preview
   - tmp
