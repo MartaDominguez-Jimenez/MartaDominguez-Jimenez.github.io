@@ -7,6 +7,8 @@ title: "Home"
 
 <p class="jm-note">I will be on the job market during the 2026-2027 academic year.</p>
 
+<p class="lede">Job-market paper: <a href="/files/JM_Paper_DOPD_MDJ.pdf?v=20261017" target="_blank" rel="noopener noreferrer">Demographic Origins of Premature Deindustrialization</a></p>
+
 <section class="upcoming" aria-labelledby="upcoming-presentations">
   <h2 id="upcoming-presentations">Upcoming presentations</h2>
 
