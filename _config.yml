@@ -11,6 +11,7 @@ include:
 exclude:
   - CV_new.md
   - CV_good.md
+  - PAPER_12_10.md
   - design-preview
   - _preview
   - tmp
