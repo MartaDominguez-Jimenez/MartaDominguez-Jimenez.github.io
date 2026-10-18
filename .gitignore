@@ -6,3 +6,6 @@ _site
 Gemfile.lock
 # Keep manuscript source and filename variants local.
 *[Pp][Aa][Pp][Ee][Rr]_12_10*
+# Editable CV sources and paper-comparison working files stay private.
+/[Cc][Vv]_*.md
+/tmp/pdfs/
