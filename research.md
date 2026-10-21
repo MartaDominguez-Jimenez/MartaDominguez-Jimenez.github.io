@@ -10,7 +10,7 @@ permalink: /research/
 
 <article class="paper">
   <h2 class="paper__title">Demographic Origins of Premature Deindustrialization</h2>
-  <div class="paper__links"><a href="/files/JM_Paper_DOPD_MDJ.pdf?v=944f76a78a4e" target="_blank" rel="noopener noreferrer">Draft</a></div>
+  <div class="paper__links"><a href="/files/JM_Paper_DOPD_MDJ.pdf?v=55016a57c183" target="_blank" rel="noopener noreferrer">Draft</a></div>
   <p class="paper__presented"><strong>Presented:</strong> RCEA Conference 2026; XXIX Workshop on Dynamic Macroeconomics 2026; RES Annual Conference 2026; Economics JM Bootcamp 2026; EEA-ESEM Congress 2026; Columbia Business School Macro Lunch; IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography 2026 (forthcoming); European Winter Meeting of the Econometric Society (EWMES) 2026 (forthcoming); CEPR Paris Symposium 2026 (forthcoming); Simposio de la Asociación Española de Economía (SAEe) 2026 (forthcoming); STEG Theme 3 Workshop 2027 (forthcoming).</p>
   <details class="abstract">
     <summary>Abstract</summary>
