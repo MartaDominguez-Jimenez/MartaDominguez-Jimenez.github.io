@@ -9,8 +9,7 @@ permalink: /research/
 <p class="section-label">Job-market paper</p>
 
 <article class="paper">
-  <h2 class="paper__title">Demographic Origins of Premature Deindustrialization</h2>
-  <div class="paper__links"><a href="/files/JM_Paper_DOPD_MDJ.pdf?v=bc0f56b1d9d1" target="_blank" rel="noopener noreferrer">Draft</a></div>
+  <h2 class="paper__title"><a href="/files/JM_Paper_DOPD_MDJ.pdf?v=bc0f56b1d9d1" target="_blank" rel="noopener noreferrer">Demographic Origins of Premature Deindustrialization</a></h2>
   <p class="paper__presented"><strong>Presented:</strong> RCEA Conference 2026; XXIX Workshop on Dynamic Macroeconomics 2026; RES Annual Conference 2026; Economics JM Bootcamp 2026; EEA-ESEM Congress 2026; Columbia Business School Macro Lunch; IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography 2026 (forthcoming); European Winter Meeting of the Econometric Society (EWMES) 2026 (forthcoming); CEPR Paris Symposium 2026 (forthcoming); Simposio de la Asociación Española de Economía (SAEe) 2026 (forthcoming); STEG Theme 3 Workshop 2027 (forthcoming).</p>
   <details class="abstract">
     <summary>Abstract</summary>
@@ -21,11 +20,10 @@ permalink: /research/
 <p class="section-label">Working papers</p>
 
 <article class="paper">
-  <h2 class="paper__title">Tariffs as Taxes on Capital</h2>
+  <h2 class="paper__title"><a href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726" target="_blank" rel="noopener noreferrer">Tariffs as Taxes on Capital</a></h2>
   <p class="paper__authors">with <a href="https://www.rubendominguezdiaz.com/" target="_blank" rel="noopener noreferrer">Rubén Domínguez-Díaz</a>, <a href="https://www.joseeliasgallegos.com/" target="_blank" rel="noopener noreferrer">José-Elías Gallegos</a> and <a href="https://sites.google.com/view/javier-quintana" target="_blank" rel="noopener noreferrer">Javier Quintana</a></p>
   <p class="paper__status">Submitted</p>
   <div class="paper__links">
-    <a href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726" target="_blank" rel="noopener noreferrer">Draft</a>
     <a href="/files/TTC_CEMFI_WP_2610.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP version</a>
   </div>
   <p class="paper__presented"><strong>Presented:</strong> BdI-ECB Trade, Value Chains and Financial Linkages in the Global Economy Conference 2026 (forthcoming); BdF-BoE-BdI International Macroeconomics Workshop 2026 (forthcoming).</p>
@@ -36,11 +34,10 @@ permalink: /research/
 </article>
 
 <article class="paper">
-  <h2 class="paper__title">Trade, Financial Frictions, and the Missing Manufacturing Window</h2>
+  <h2 class="paper__title"><a href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609" target="_blank" rel="noopener noreferrer">Trade, Financial Frictions, and the Missing Manufacturing Window</a></h2>
   <p class="paper__authors">with Santiago Etchegaray</p>
   <p class="paper__status">Submitted</p>
   <div class="paper__links">
-    <a href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609" target="_blank" rel="noopener noreferrer">Draft</a>
     <a href="https://ssrn.com/abstract=7066615" target="_blank" rel="noopener noreferrer">SSRN</a>
     <a href="/files/STFF_CEMFI_WP_2607.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP version</a>
     <a href="/files/Slides_STFF_MDJ_SE.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
