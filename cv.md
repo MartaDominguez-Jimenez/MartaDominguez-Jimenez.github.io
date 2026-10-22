@@ -151,67 +151,13 @@ permalink: /cv/
   <p class="section-label">Conferences and seminars</p>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">49th Simposio de la Asociación Española de Economía (SAEe)</span>
+      <span class="cv-row__title">STEG Annual Conference, Theme 3 Workshop (forthcoming)</span>
     </div>
-    <span class="cv-row__right">2024</span>
+    <span class="cv-row__right">2027</span>
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">RCEA International Conference in Economics, Econometrics, and Finance</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">XXIX Workshop on Dynamic Macroeconomics in Vigo</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">Royal Economic Society Annual Conference</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">Economics Job Market Bootcamp in Tuscany</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">41st Annual Congress of the European Economic Association</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">Columbia Business School Macro Lunch</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">BdI-ECB Trade, Value Chains and Financial Linkages in the Global Economy Conference (forthcoming)</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">BdF-BoE-BdI International Macroeconomics Workshop (forthcoming)</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography (forthcoming)</span>
-    </div>
-    <span class="cv-row__right">2026</span>
-  </div>
-  <div class="cv-row">
-    <div class="cv-row__main">
-      <span class="cv-row__title">European Winter Meeting of the Econometric Society (EWMES) (forthcoming)</span>
+      <span class="cv-row__title">51st Simposio de la Asociación Española de Economía (SAEe) (forthcoming)</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
@@ -223,15 +169,69 @@ permalink: /cv/
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">51st Simposio de la Asociación Española de Economía (SAEe) (forthcoming)</span>
+      <span class="cv-row__title">European Winter Meeting of the Econometric Society (EWMES) (forthcoming)</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">STEG Annual Conference, Theme 3 Workshop (forthcoming)</span>
+      <span class="cv-row__title">IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography (forthcoming)</span>
     </div>
-    <span class="cv-row__right">2027</span>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">BdF-BoE-BdI International Macroeconomics Workshop (forthcoming)</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">BdI-ECB Trade, Value Chains and Financial Linkages in the Global Economy Conference (forthcoming)</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">Columbia Business School Macro Lunch</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">41st Annual Congress of the European Economic Association</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">Economics Job Market Bootcamp in Tuscany</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">Royal Economic Society Annual Conference</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">XXIX Workshop on Dynamic Macroeconomics in Vigo</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">RCEA International Conference in Economics, Econometrics, and Finance</span>
+    </div>
+    <span class="cv-row__right">2026</span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">49th Simposio de la Asociación Española de Economía (SAEe)</span>
+    </div>
+    <span class="cv-row__right">2024</span>
   </div>
 </section>
 
