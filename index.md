@@ -7,7 +7,7 @@ title: "Home"
 
 <p class="jm-note"><strong>I am on the 2026-27 academic job market</strong></p>
 
-<p class="lede">Job-market paper: <a href="/files/JM_Paper_DOPD_MDJ.pdf?v=bc0f56b1d9d1" target="_blank" rel="noopener noreferrer">Demographic Origins of Premature Deindustrialization</a></p>
+<p class="lede"><a href="/files/JM_Paper_DOPD_MDJ.pdf?v=bc0f56b1d9d1" target="_blank" rel="noopener noreferrer">Job Market Paper</a></p>
 
 <p class="lede"><a href="{{ '/files/CV_Marta_Dominguez-Jimenez.pdf' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" target="_blank" rel="noopener noreferrer">CV</a></p>
 
