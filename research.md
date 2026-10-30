@@ -34,13 +34,12 @@ permalink: /research/
 </article>
 
 <article class="paper">
-  <h2 class="paper__title"><a href="/files/Paper_STFF_MDJ_SE.pdf?v=20260609" target="_blank" rel="noopener noreferrer">Trade, Financial Frictions, and the Missing Manufacturing Window</a></h2>
+  <h2 class="paper__title"><a href="/files/Paper_STFF_MDJ_SE.pdf?v=0b45dccc529b" target="_blank" rel="noopener noreferrer">Trade, Financial Frictions, and the Missing Manufacturing Window</a></h2>
   <p class="paper__authors">with Santiago Etchegaray</p>
   <p class="paper__status">Submitted</p>
   <div class="paper__links">
     <a href="https://ssrn.com/abstract=7066615" target="_blank" rel="noopener noreferrer">SSRN</a>
-    <a href="/files/STFF_CEMFI_WP_2607.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP version</a>
-    <a href="/files/Slides_STFF_MDJ_SE.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
+    <a href="/files/STFF_CEMFI_WP_2607.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP (June 2026)</a>
   </div>
   <p class="paper__presented"><strong>Presented:</strong> Simposio de la Asociación Española de Economía (SAEe) 2024.</p>
   <details class="abstract">
