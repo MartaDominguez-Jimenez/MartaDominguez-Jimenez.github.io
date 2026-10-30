@@ -49,15 +49,12 @@ permalink: /research/
   </details>
 </article>
 
-<p class="section-label">Work in progress</p>
-
 <article class="paper">
-  <h2 class="paper__title">IMF Governance in a Fragmenting World</h2>
+  <h2 class="paper__title"><a href="/files/Paper_IMF_MDJ_MGE.pdf?v=48af164f7249" target="_blank" rel="noopener noreferrer">IMF Governance in a Fragmenting World</a></h2>
   <p class="paper__authors">with <a href="https://sites.google.com/view/mgeiras/inicio?authuser=0" target="_blank" rel="noopener noreferrer">Martín Gonzalez-Eiras</a></p>
-  <p class="paper__note">Draft available upon request</p>
   <details class="abstract">
     <summary>Abstract</summary>
-    <p class="abstract__body">We develop a welfare-based theory of IMF governance in which voting weights and contributions reflect economic size, crisis risk, and trade linkages that transmit crises across countries. In the relatively balanced risk environment of Bretton Woods, the efficient voting rule can be implemented by quotas proportional to GDP at PPP and openness. After Bretton Woods, as IMF borrowing shifted toward emerging and developing economies, quotas remain optimal, but vote aggregation must account for unequal crisis risk. In a bipolar world with alliance-dependent trade costs, the model’s efficient allocation gives more voice to China and countries exposed to China-centered trade. Without governance reform, a China-centered coalition may find the Fund less attractive, raising the risk of institutional separation.</p>
+    <p class="abstract__body">We study how IMF governance should evolve as crisis risk shifts across countries and geopolitical rivalry reshapes international economic ties. Our welfare benchmark links contribution shares and voting weights to economic size, crisis risk, and trade spillovers. Under similar crisis probabilities for all economies, an analytical approximation supports a quota-like rule based on GDP at PPP and openness. A trade model calibrated to 127 countries shows that the post-Bretton-Woods concentration of borrowing among emerging and developing economies instead calls for substantial changes to existing quota shares. Severe fragmentation into US- and China-centered spheres reduces cross-sphere trade substantially but leaves contribution shares almost unchanged. The results suggest that potential institutional tensions would stem primarily from lingering quota misalignment, possibly exacerbated by US–China disagreements over crisis management.</p>
   </details>
 </article>
 
