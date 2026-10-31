@@ -49,7 +49,7 @@ permalink: /research/
 </article>
 
 <article class="paper">
-  <h2 class="paper__title"><a href="/files/Paper_IMF_MDJ_MGE.pdf?v=48af164f7249" target="_blank" rel="noopener noreferrer">IMF Governance in a Fragmenting World</a></h2>
+  <h2 class="paper__title"><a href="/files/Paper_IMF_MDJ_MGE.pdf?v=5f14263baa04" target="_blank" rel="noopener noreferrer">IMF Governance in a Fragmenting World</a></h2>
   <p class="paper__authors">with <a href="https://sites.google.com/view/mgeiras/inicio?authuser=0" target="_blank" rel="noopener noreferrer">Martín Gonzalez-Eiras</a></p>
   <details class="abstract">
     <summary>Abstract</summary>
