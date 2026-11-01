@@ -57,6 +57,17 @@ permalink: /research/
   </details>
 </article>
 
+<p class="section-label">Work in progress</p>
+
+<article class="paper">
+  <h2 class="paper__title">Migration Policy, Workforce Aging, and Structural Transformation</h2>
+  <p class="paper__authors">with <a href="https://violagar.wordpress.com/" target="_blank" rel="noopener noreferrer">Viola Garstenauer</a></p>
+  <details class="abstract">
+    <summary>Abstract</summary>
+    <p class="abstract__body">How does population aging in high-income destination countries affect industrialization in migrant-origin economies? We study how aging changes demand for migrant workers and the admission policies chosen by destination countries. We focus on how age and skill requirements, sector-specific admissions, and permit duration shape who migrates and for how long. Because workers’ comparative advantage changes over the life cycle, the composition and timing of emigration and return can alter the supply of labor available for manufacturing in origin countries. We have assembled origin-side departure records and destination-side census and administrative data, and develop a quantitative framework to assess these effects, accounting for remittances and return migration.</p>
+  </details>
+</article>
+
 <!-- Hidden from the site; delete this comment wrapper to bring it back.
 <article class="paper">
   <h2 class="paper__title">The Global Reach of EU Regulation: Evidence from Third-Country Trade</h2>
