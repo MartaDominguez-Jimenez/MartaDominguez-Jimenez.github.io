@@ -36,7 +36,6 @@ permalink: /research/
 <article class="paper">
   <h2 class="paper__title"><a href="/files/Paper_STFF_MDJ_SE.pdf?v=fd14d7bc3de7" target="_blank" rel="noopener noreferrer">Trade, Financial Frictions, and the Missing Manufacturing Window</a></h2>
   <p class="paper__authors">with Santiago Etchegaray</p>
-  <p class="paper__status">Submitted</p>
   <div class="paper__links">
     <a href="https://ssrn.com/abstract=7066615" target="_blank" rel="noopener noreferrer">SSRN</a>
     <a href="/files/STFF_CEMFI_WP_2607.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP (June 2026)</a>
