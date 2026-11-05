@@ -35,7 +35,7 @@ permalink: /research/
 
 <article class="paper">
   <h2 class="paper__title"><a href="/files/Paper_STFF_MDJ_SE.pdf?v=fd14d7bc3de7" target="_blank" rel="noopener noreferrer">Trade, Financial Frictions, and the Missing Manufacturing Window</a></h2>
-  <p class="paper__authors">with Santiago Etchegaray</p>
+  <p class="paper__authors">with <a href="https://www.cemfi.es/people/faculty/profile_phd.asp?u=etchegaray" target="_blank" rel="noopener noreferrer">Santiago Etchegaray</a></p>
   <div class="paper__links">
     <a href="https://ssrn.com/abstract=7066615" target="_blank" rel="noopener noreferrer">SSRN</a>
     <a href="/files/STFF_CEMFI_WP_2607.pdf" target="_blank" rel="noopener noreferrer">CEMFI WP (June 2026)</a>
@@ -64,6 +64,15 @@ permalink: /research/
   <details class="abstract">
     <summary>Abstract</summary>
     <p class="abstract__body">How does population aging in high-income destination countries affect industrialization in migrant-origin economies? We study how aging changes demand for migrant workers and the admission policies chosen by destination countries. We focus on how age and skill requirements, sector-specific admissions, and permit duration shape who migrates and for how long. Because workers’ comparative advantage changes over the life cycle, the composition and timing of emigration and return can alter the supply of labor available for manufacturing in origin countries. We have assembled origin-side departure records and destination-side census and administrative data, and develop a quantitative framework to assess these effects, accounting for remittances and return migration.</p>
+  </details>
+</article>
+
+<article class="paper">
+  <h2 class="paper__title">Production Networks over the Business Cycle</h2>
+  <p class="paper__authors">with <a href="https://sites.google.com/view/emmanueldhyne/home" target="_blank" rel="noopener noreferrer">Emmanuel Dhyne</a> and <a href="https://www.econ.uzh.ch/en/people/graduatestudents/llompart.html" target="_blank" rel="noopener noreferrer">Magdalena Llompart-Frau</a></p>
+  <details class="abstract">
+    <summary>Abstract</summary>
+    <p class="abstract__body">We use administrative data from the National Bank of Belgium to study how supply relationships form and adjust over the business cycle. The data record annual sales between domestic buyers and suppliers over more than two decades and include detailed information on firms’ balance sheets, employment and international trade. We examine what these relationship dynamics imply for the propagation of aggregate shocks.</p>
   </details>
 </article>
 
