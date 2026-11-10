@@ -75,6 +75,24 @@ permalink: /cv/
 </section>
 
 <section class="cv-section">
+  <p class="section-label">Placement directors</p>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">Florin Bilbiie</span>
+      <span class="cv-row__sub">CEMFI</span>
+    </div>
+    <span class="cv-row__right"><a href="mailto:bilbiie@cemfi.es">bilbiie@cemfi.es</a></span>
+  </div>
+  <div class="cv-row">
+    <div class="cv-row__main">
+      <span class="cv-row__title">Tom Zohar</span>
+      <span class="cv-row__sub">CEMFI</span>
+    </div>
+    <span class="cv-row__right"><a href="mailto:tom.zohar@cemfi.es">tom.zohar@cemfi.es</a></span>
+  </div>
+</section>
+
+<section class="cv-section">
   <p class="section-label">Research interests</p>
   <div class="cv-row">
     <div class="cv-row__main">
@@ -291,6 +309,6 @@ permalink: /cv/
   </div>
 </section>
 
-<p class="cv-row__sub"><em>Last updated: October 2026</em></p>
+<p class="cv-row__sub"><em>Last updated: November 2026</em></p>
 
 </div>
