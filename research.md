@@ -20,7 +20,7 @@ permalink: /research/
 <p class="section-label">Working papers</p>
 
 <article class="paper">
-  <h2 class="paper__title"><a href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf?v=20260726" target="_blank" rel="noopener noreferrer">Tariffs as Taxes on Capital</a></h2>
+  <h2 class="paper__title"><a href="/files/Paper_TTC_RDD_MDJ_JG_JQ.pdf" target="_blank" rel="noopener noreferrer">Tariffs as Taxes on Capital</a></h2>
   <p class="paper__authors">with <a href="https://www.rubendominguezdiaz.com/" target="_blank" rel="noopener noreferrer">Rubén Domínguez-Díaz</a>, <a href="https://www.joseeliasgallegos.com/" target="_blank" rel="noopener noreferrer">José-Elías Gallegos</a> and <a href="https://sites.google.com/view/javier-quintana" target="_blank" rel="noopener noreferrer">Javier Quintana</a></p>
   <p class="paper__status">Submitted</p>
   <div class="paper__links">
@@ -34,7 +34,7 @@ permalink: /research/
 </article>
 
 <article class="paper">
-  <h2 class="paper__title"><a href="/files/Paper_STFF_MDJ_SE.pdf?v=fd14d7bc3de7" target="_blank" rel="noopener noreferrer">Trade, Financial Frictions, and the Missing Manufacturing Window</a></h2>
+  <h2 class="paper__title"><a href="/files/Paper_STFF_MDJ_SE.pdf" target="_blank" rel="noopener noreferrer">Trade, Financial Frictions, and the Missing Manufacturing Window</a></h2>
   <p class="paper__authors">with <a href="https://www.cemfi.es/people/faculty/profile_phd.asp?u=etchegaray" target="_blank" rel="noopener noreferrer">Santiago Etchegaray</a></p>
   <div class="paper__links">
     <a href="https://ssrn.com/abstract=7066615" target="_blank" rel="noopener noreferrer">SSRN</a>
@@ -48,7 +48,7 @@ permalink: /research/
 </article>
 
 <article class="paper">
-  <h2 class="paper__title"><a href="/files/Paper_IMF_MDJ_MGE.pdf?v=5f14263baa04" target="_blank" rel="noopener noreferrer">IMF Governance in a Fragmenting World</a></h2>
+  <h2 class="paper__title"><a href="/files/Paper_IMF_MDJ_MGE.pdf" target="_blank" rel="noopener noreferrer">IMF Governance in a Fragmenting World</a></h2>
   <p class="paper__authors">with <a href="https://sites.google.com/view/mgeiras/inicio?authuser=0" target="_blank" rel="noopener noreferrer">Martín Gonzalez-Eiras</a></p>
   <details class="abstract">
     <summary>Abstract</summary>
