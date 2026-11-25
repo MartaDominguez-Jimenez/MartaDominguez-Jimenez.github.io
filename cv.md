@@ -193,19 +193,19 @@ permalink: /cv/
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography (forthcoming)</span>
+      <span class="cv-row__title">IMF-OECD-PIIE-WB Conference on Labor Markets, AI, and Demography</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">BdF-BoE-BdI International Macroeconomics Workshop (forthcoming)</span>
+      <span class="cv-row__title">BdF-BoE-BdI International Macroeconomics Workshop</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
   <div class="cv-row">
     <div class="cv-row__main">
-      <span class="cv-row__title">BdI-ECB Trade, Value Chains and Financial Linkages in the Global Economy Conference (forthcoming)</span>
+      <span class="cv-row__title">BdI-ECB Trade, Value Chains and Financial Linkages in the Global Economy Conference</span>
     </div>
     <span class="cv-row__right">2026</span>
   </div>
